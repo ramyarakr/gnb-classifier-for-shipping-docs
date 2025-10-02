@@ -76,9 +76,8 @@ http://127.0.0.1:5000
 - **Input**: Shipping document text extracted with Tesseract OCR
 - **Output**: Predicted document type with confidence score
 - 
-- **Model Report**: Full methodology and evaluation results are available in `GNB_Classification_Ramya.pdf`.  
-- **Admin Guide**: Deployment and API usage instructions are detailed in `App Admin Guide.pdf`.  
-
+- [Model Report](./GNB_Classification_Ramya.pdf) – methodology and evaluation results  
+- [Admin Guide](./App%20Admin%20Guide.pdf) – deployment and API usage instructions   
 ---
 
 ## ⚠️ Notes
